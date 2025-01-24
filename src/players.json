@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Lionel Messi",
+    "hint": "Argentinian, Inter Miami player, 8 Ballon d'Or awards, World Cup winner.",
+    "img": "https://i.pinimg.com/736x/64/0a/ae/640aae4a81cdcde7d6b5640239062059.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cristiano Ronaldo",
+    "hint": "Portuguese, Real Madrid legend, Al-Nassr player.",
+    "img": "https://i.pinimg.com/736x/9e/35/9c/9e359c8e8181abc0b2871c6fd1f3d8cb.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Kylian Mbappé",
+    "hint": "French, World Cup winner, lightning speed.",
+    "img": "https://i.pinimg.com/736x/38/8f/6e/388f6e2d0b51602884d704529e370b8a.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Neymar Jr.",
+    "hint": "Brazilian, Al-Hilal superstar, flair and creativity.",
+    "img": "https://i.pinimg.com/736x/6c/b2/cc/6cb2cccb574146329c62ea6bc9a9ef85.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mohamed Salah",
+    "hint": "Egyptian, Liverpool’s star, Premier League top scorer.",
+    "img": "https://i.pinimg.com/736x/ac/fb/72/acfb72919709f7b34146a264f2930ced.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Kevin De Bruyne",
+    "hint": "Belgian, Manchester City playmaker, vision and precision.",
+    "img": "https://i.pinimg.com/736x/71/84/a7/7184a75db375f501159ddc1adc9abca7.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Virgil van Dijk",
+    "hint": "Dutch, Liverpool defender, rock-solid center-back.",
+    "img": "https://i.pinimg.com/736x/96/12/cd/9612cdb111dae96920b0e8e074d7f20b.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Erling Haaland",
+    "hint": "Norwegian, Manchester City striker, goal-scoring machine.",
+    "img": "https://i.pinimg.com/736x/32/46/e8/3246e8e3bea99ea438d034d1381e944b.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Robert Lewandowski",
+    "hint": "Polish, Barcelona forward, one of the best finishers.",
+    "img": "https://i.pinimg.com/736x/4b/fd/5a/4bfd5ae75166da96de99ed6513200469.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Luka Modric",
+    "hint": "Croatian, Real Madrid midfielder, Ballon d'Or winner.",
+    "img": "https://i.pinimg.com/736x/56/bc/6e/56bc6ef96c0bafe819a9fd08fe825f3f.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Sergio Ramos",
+    "hint": "Spanish, Real Madrid legend, defensive leader.",
+    "img": "https://i.pinimg.com/736x/32/78/53/3278534b215719815ad2f1538f84bfb4.jpg"
+  },
+  {
+    "id": 12,
+    "name": "N'Golo Kante",
+    "hint": "French, Al-Ittihad midfielder, tireless and hardworking.",
+    "img": "https://i.pinimg.com/736x/53/65/da/5365daf3f4a81f8d431a4d862814f6db.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Harry Kane",
+    "hint": "English, Tottenham Hotspur striker, prolific goal scorer.",
+    "img": "https://i.pinimg.com/736x/b8/39/bd/b839bdf102ed7599bbcc2bd1a739ac4a.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Alisson Becker",
+    "hint": "Brazilian, Liverpool goalkeeper, world-class shot stopper.",
+    "img": "https://i.pinimg.com/736x/8f/dc/9a/8fdc9ad5f43f62401d32f5acc5b6e0c7.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Thibaut Courtois",
+    "hint": "Belgian, Real Madrid goalkeeper, top-class shot stopper.",
+    "img": "https://i.pinimg.com/736x/22/af/5e/22af5ed4972afa275e489232238f72cf.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Toni Kroos",
+    "hint": "German, Real Madrid midfielder, passing maestro.",
+    "img": "https://i.pinimg.com/736x/d0/aa/c1/d0aac1b403f2c7435c57f13e2c5bffe5.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Phil Foden",
+    "hint": "English, Manchester City forward, creative and skillful.",
+    "img": "https://i.pinimg.com/736x/d3/1a/c2/d31ac2c3574846ac85537bb5b5bf347e.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Jadon Sancho",
+    "hint": "English, Manchester United winger, explosive pace.",
+    "img": "https://i.pinimg.com/736x/55/2e/0c/552e0c03a516fe0693f959e2424cf2f4.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Raheem Sterling",
+    "hint": "English, Chelsea winger, pace and flair.",
+    "img": "https://i.pinimg.com/736x/d8/dd/94/d8dd94a5af42b62d004d8d3c3ff0bced.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Gerard Piqué",
+    "hint": "Spanish, Barcelona defender, leadership and vision.",
+    "img": "https://i.pinimg.com/736x/3f/59/b6/3f59b657c77b59dbbb86acf0cea91227.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Andrés Iniesta",
+    "hint": "Spanish, Barcelona legend, midfield genius.",
+    "img": "https://i.pinimg.com/736x/9c/33/fb/9c33fb1638eaa84e58f680154f3d0694.jpg"
+  },
+  {
+    "id": 22,
+    "name": "David Beckham",
+    "hint": "English, Manchester United legend, iconic free-kicks.",
+    "img": "https://i.pinimg.com/736x/c9/e2/ae/c9e2ae6a42f8b7b504c70efc1ff97622.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Zinedine Zidane",
+    "hint": "French, Real Madrid manager, footballing legend.",
+    "img": "https://i.pinimg.com/736x/f0/7f/6c/f07f6c4ec760cefc603294567f33b92d.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Samuel Eto'o",
+    "hint": "Cameroonian, Barcelona striker, African football icon.",
+    "img": "https://i.pinimg.com/736x/d4/39/d6/d439d67501220b30a0042a3dabc43721.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Diego Maradona",
+    "hint": "Argentinian, footballing genius, Hand of God.",
+    "img": "https://i.pinimg.com/736x/fd/42/b1/fd42b1b2cab30439b8234cc84e02540b.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Ronaldinho",
+    "hint": "Brazilian, Barcelona legend, magician with the ball.",
+    "img": "https://i.pinimg.com/736x/d8/a3/0d/d8a30da14df5d3cfd9016b300f5106ba.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Frank Lampard",
+    "hint": "English, Chelsea legend, midfield goal-scoring machine.",
+    "img": "https://i.pinimg.com/736x/86/73/33/867333ad7674a050c9f19a004b3792f4.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Steven Gerrard",
+    "hint": "English, Liverpool legend, iconic captain.",
+    "img": "https://i.pinimg.com/736x/14/83/dd/1483dd1c50f34e507451be5686a09593.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Paul Pogba",
+    "hint": "French, Manchester United midfielder, creative powerhouse.",
+    "img": "https://i.pinimg.com/736x/79/92/b1/7992b16211b3e170acdebc7c12c500ce.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Mason Mount",
+    "hint": "English, Chelsea midfielder, technical and hardworking.",
+    "img": "https://i.pinimg.com/736x/0b/5a/8f/0b5a8fa6e9f9895b0c198d5ab6ad8c21.jpg"
+  },
+  {
+    "id": 31,
+    "name": "James Rodríguez",
+    "hint": "Colombian, Real Madrid midfielder, incredible vision.",
+    "img": "https://i.pinimg.com/736x/e9/1c/1f/e91c1f9ff7242307299b20af71b9eb16.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Sadio Mané",
+    "hint": "Senegalese, Liverpool forward, pace and dribbling.",
+    "img": "https://i.pinimg.com/736x/4e/a0/4e/4ea04ee45f7909e1c70017d3504ba4c9.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Philippe Coutinho",
+    "hint": "Brazilian, Barcelona playmaker, flair and creativity.",
+    "img": "https://i.pinimg.com/736x/d8/53/45/d85345397662886b2dda0fb718166e06.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Alexis Sánchez",
+    "hint": "Chilean, Arsenal and Manchester United forward, tireless worker.",
+    "img": "https://i.pinimg.com/736x/8f/3f/2d/8f3f2d00703d84ca676baca23c8493d8.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Luis Suárez",
+    "hint": "Uruguayan, Barcelona striker, clinical finisher.",
+    "img": "https://i.pinimg.com/736x/24/4a/a9/244aa9132a68834a6ff3fc7edba44af5.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Edinson Cavani",
+    "hint": "Uruguayan, Manchester United striker, goal-scoring legend.",
+    "img": "https://i.pinimg.com/736x/a2/35/f1/a235f1e36014ecc2d95a3b989d2c776c.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Marco Verratti",
+    "hint": "Italian, PSG midfielder, composed on the ball.",
+    "img": "https://i.pinimg.com/736x/58/5c/f5/585cf59f145b2b633b93d21a06d1d936.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Juan Mata",
+    "hint": "Spanish, Manchester United playmaker, creative genius.",
+    "img": "https://i.pinimg.com/736x/58/7c/bb/587cbbd161f79acf749ae5e86190616b.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Cesc Fàbregas",
+    "hint": "Spanish, Barcelona midfielder, tactical intelligence.",
+    "img": "https://i.pinimg.com/736x/e3/bc/3b/e3bc3bd3d05da36496c06d6690b17b2a.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Nicolas Pépé",
+    "hint": "Ivorian, Arsenal winger, pace and dribbling.",
+    "img": "https://i.pinimg.com/736x/0a/2c/2b/0a2c2b72a6dec35770937b99a2340550.jpg"
+  },
+  {
+    "id": 41,
+    "name": "David Villa",
+    "hint": "Spanish, former Barcelona forward, clinical finisher.",
+    "img": "https://i.pinimg.com/736x/d8/b7/3c/d8b73c666a2a989708473695906b2d09.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Sergio Agüero",
+    "hint": "Argentinian, Manchester City striker, all-time great.",
+    "img": "https://i.pinimg.com/736x/b1/cf/e5/b1cfe557f47d7897431c009e5a8bbc2d.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Koke",
+    "hint": "Spanish, Atlético Madrid midfielder, workhorse.",
+    "img": "https://i.pinimg.com/736x/3e/f6/6b/3ef66b0467fff9d88f48ccff603b89e7.jpg"
+  },
+  {
+    "id": 44,
+    "name": "João Félix",
+    "hint": "Portuguese, Atlético Madrid forward, skillful and creative.",
+    "img": "https://i.pinimg.com/736x/4a/c4/9e/4ac49e559724325ae9aff5bdc39d4106.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Saúl Ñíguez",
+    "hint": "Spanish, Atlético Madrid midfielder, dynamic presence.",
+    "img": "https://i.pinimg.com/736x/71/be/7e/71be7ec5005f35b522ba48f34f68fdc7.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Jules Koundé",
+    "hint": "French, Barcelona defender, strong and fast.",
+    "img": "https://i.pinimg.com/736x/23/35/e3/2335e3840d442b7955332ff34d022f72.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Nuno Mendes",
+    "hint": "Portuguese, PSG defender, young and talented.",
+    "img": "https://i.pinimg.com/736x/80/0e/95/800e95fd4e834652f0271468961a5730.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Benjamin Mendy",
+    "hint": "French, Manchester City defender, fast and attacking.",
+    "img": "URL_TO_IMAGE"
+  },
+  {
+    "id": 49,
+    "name": "Ferland Mendy",
+    "hint": "French, Real Madrid defender, defensive strength.",
+    "img": "URL_TO_IMAGE"
+  },
+  {
+    "id": 50,
+    "name": "Rodri",
+    "hint": "Spanish, Manchester City midfielder, holding role.",
+    "img": "https://i.pinimg.com/736x/80/0e/95/800e95fd4e834652f0271468961a5730.jpg"
+  }
+]
